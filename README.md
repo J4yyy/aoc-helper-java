@@ -24,11 +24,18 @@ You can run an entire package of solution classes or test individual classes. Th
 ```
 
 ## How to use
-Implementation of a Solution
+Implementation of a Solution, you can get all Rows from the input File with ```getData();```
+The input file must be placed in the resources folder in the structure for example:</br>
+&nbsp;-resources</br>
+&nbsp;&nbsp;&nbsp;&nbsp; -y2021</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-input1.txt</br>
 ```java
 import dev.jayy.aochelper.utils.Day;
 
 public class DayOne extends Day {
+
+    private List<String> data = getData();
+    
     protected DayOne() {
         super(2022, 1);
     }
