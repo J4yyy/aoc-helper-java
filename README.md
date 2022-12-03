@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/64800218/205461499-f57f0218-c755-4438-afe7-4898701f9bbf.png" style="width: 500px; border-radius: 15px" alt="banner">
+</p>
+
+<h3 align="center">Advent of Code Helper</h3>
+
+<p align="center">
+    <img alt="project-size" src="https://img.shields.io/github/languages/code-size/J4yyy/aoc-helper-java">
+    <img alt="open-issues" src="https://img.shields.io/github/issues-raw/J4yyy/aoc-helper-java">
+</p>
+
 ## Features
 You can run an entire package of solution classes or test individual classes. The only important thing is that your solution class extends the Day class.
 
@@ -47,3 +58,6 @@ public class Main {
 
 ## Issues
 If you find any issues from the plugin or documentation please [open up issue](https://github.com/J4yyy/aoc-helper-java/issues)
+
+
+Made with ♥ by [j4yy](https://github.com/J4yyy)
