@@ -7,17 +7,14 @@
     <groupId>dev.jayy.aochelper</groupId>
     <artifactId>AoCHelper</artifactId>
     <version>1.0</version>
-    <packaging>jar</packaging>
 
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>AoCHelper by Jayy</name>
-            <url>https://maven.pkg.github.com/J4yyy/AoCHelper</url>
+            <name>aoc-helper</name>
+            <url>https://maven.pkg.github.com/J4yyy/aoc-helper-java</url>
         </repository>
     </distributionManagement>
-
-
 
     <properties>
         <maven.compiler.source>18</maven.compiler.source>
