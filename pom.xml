@@ -6,7 +6,7 @@
 
     <groupId>dev.jayy.aochelper</groupId>
     <artifactId>aochelper</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
 
     <distributionManagement>
         <repository>
