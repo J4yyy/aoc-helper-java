@@ -29,13 +29,18 @@ The input file must be placed in the resources folder in the structure for examp
 &nbsp;-resources</br>
 &nbsp;&nbsp;&nbsp;&nbsp; -y2021</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-input1.txt</br>
+
 ```java
 import dev.jayy.aochelper.utils.Day;
+
+import java.util.stream.Stream;
 
 public class DayOne extends Day {
 
     private List<String> data = getData();
-    
+    // Or
+    private Stream<String> data = dataAsStream();
+
     protected DayOne() {
         super(2022, 1);
     }

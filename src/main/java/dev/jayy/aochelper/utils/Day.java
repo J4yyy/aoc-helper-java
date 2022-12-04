@@ -5,6 +5,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+import java.util.stream.Stream;
 
 public abstract class Day {
 
@@ -46,5 +47,9 @@ public abstract class Day {
 
     public int getDay() {
         return this.day;
+    }
+
+    public Stream<String> dataAsStream() {
+        return data.stream();
     }
 }
