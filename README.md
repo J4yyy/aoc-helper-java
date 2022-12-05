@@ -76,3 +76,7 @@ If you find any issues from the library or documentation please [open up issue](
 
 
 Made with ♥ by [J4yy](https://github.com/J4yyy)
+
+## License
+
+[GNU GPL v3](./LICENSE)
