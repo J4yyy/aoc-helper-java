@@ -72,7 +72,7 @@ public class Main {
 
 
 ## Issues
-If you find any issues from the plugin or documentation please [open up issue](https://github.com/J4yyy/aoc-helper-java/issues)
+If you find any issues from the library or documentation please [open up issue](https://github.com/J4yyy/aoc-helper-java/issues)
 
 
-Made with ♥ by [j4yy](https://github.com/J4yyy)
+Made with ♥ by [J4yy](https://github.com/J4yyy)
