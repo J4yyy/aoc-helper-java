@@ -10,7 +10,10 @@
 </p>
 
 ## Features
-You can run an entire package of solution classes or test individual classes. The only important thing is that your solution class extends the Day class.
+This Java library helps you to keep your project structure for AdventOfCode simple, output your solutions formatted and keep track of the speed of your solution. You can run a whole package or just single classes.
+The only important thing is that your solution classes extends the Day class.
+
+Feel free to give me feedback.
 
 ## Maven
 ```xml
